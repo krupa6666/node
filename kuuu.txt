@@ -1,0 +1,10 @@
+<!doc type html>
+<html>
+<head>
+<tittle>
+my name is Krupa
+</tittle>
+<body>
+HELLO KRUPA!!
+</body>
+</head>
